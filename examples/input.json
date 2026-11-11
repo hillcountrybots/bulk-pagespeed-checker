@@ -1,0 +1,5 @@
+{
+  "urls": ["https://www.wikipedia.org/", "https://web.dev/"],
+  "strategy": "mobile",
+  "categories": ["performance", "accessibility", "best-practices", "seo"]
+}
